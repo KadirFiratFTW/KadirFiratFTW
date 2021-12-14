@@ -1,4 +1,4 @@
-### Hi there, I'm KF - aka [KadirFirat](kadirfirat.com) 👋
+### Hi there, I'm KF - aka [KadirFirat](https://kadirfirat.com) 👋
 
 [![Website](https://img.shields.io/website?label=kadirfirat.com&style=for-the-badge&url=https%3A%2F%2Fkadirfirat.com)](https://kadirfirat.com)
 
