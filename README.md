@@ -4,7 +4,7 @@
 
 ## I'm a Fullstack Developer
 
-- 🔭 I’m currently working as Back-end Developer at Qlub.io!
+- 🔭 I’m currently looking for work as Back-end Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
