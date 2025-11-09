@@ -5,7 +5,7 @@
 ## I'm a Fullstack Developer
 
 - 🔭 I’m currently looking for work as Back-end Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I never stop learning and always keep exploring new things
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
